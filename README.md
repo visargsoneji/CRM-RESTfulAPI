@@ -7,7 +7,7 @@ Here I have used MongoDB as a database to store the data.<br>
 Download and install the MongoDB Enterprise Edition as per your OS.<br>
 If you are a Windows user, MongoDB keeps on running as service after you have installed it.<br>
 For linux and Mac Users, you have to explicitly start the Mongo server after installing it.<br><br>
-After installing the basic stuff, lets install the dependencies for this application which are as follows : <br>
+After installing the basic stuff, install the dependencies for this application which are as follows : <br>
 body-parser<br>
 express<br>
 lodash<br>
