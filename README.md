@@ -14,9 +14,9 @@ lodash<br>
 mongodb<br>
 nodemon(optional)<br>
 All of these external modules can be easily installed via npm.<br><br>
-Also you need to install some developer dependencies like : <br>
+Also, you need to install some developer dependencies like : <br>
 babel-cli<br>
 babel-preset-env<br>
 babel-preset-stage-0<br>
 <br>
-Also, to make the above mentioned HTTP requests, POSTMAN like softwares could be used.
+To make the above mentioned HTTP requests, POSTMAN like softwares could be used.
